@@ -1,12 +1,14 @@
-{
+[
+  {
     "id": 1,
     "title": "Hello World",
     "content": "Try React",
     "slug": "hello-world"
-},
-{
+  },
+  {
     "id": 2,
     "title": "Setup React",
     "content": "Seting up React",
     "slug": "setup-react"
-}
+  }
+]
